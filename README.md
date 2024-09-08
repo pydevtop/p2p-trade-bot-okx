@@ -30,7 +30,7 @@ The bot is multi-processor - this allows the bot to efficiently process large am
 
 <b>Merchant or All Users</b> Function: This function filters ads based on the type of seller. It can follow only merchants or all sellers.
 
-<img id="main_image_73" src="https://py-dev.top/images/p2ptradebot_okx/menu_bot.jpg" alt="P2P Trade Bot OKX" title="P2P Trade Bot OKX">
+<img id="main_image_73" src="https://py-dev.top/images/p2ptradebot_okx/okx_bot_menu.png" alt="P2P Trade Bot OKX" title="P2P Trade Bot OKX">
 
 
 
