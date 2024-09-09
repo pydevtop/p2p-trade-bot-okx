@@ -32,7 +32,10 @@ The bot is multi-processor - this allows the bot to efficiently process large am
 
 <img id="main_image_73" src="https://py-dev.top/images/p2ptradebot_okx/okx_bot_menu.png" alt="P2P Trade Bot OKX" title="P2P Trade Bot OKX">
 
+#### Demo
 
+
+<a href="https://www.youtube.com/watch?v=TLdLL6WNHdE" target="_blank"><img src="https://img.youtube.com/vi/TLdLL6WNHdE/0.jpg" alt="OKXP2PTradeBot" style="width:259px;height:194px;"></a>
 
 ####  Similar developments:
 ******************************************************************************************
