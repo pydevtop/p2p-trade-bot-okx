@@ -55,7 +55,7 @@ Example: BOT_TOKEN = '5017012087:AAGXATlZLS3l25SxVbXIxXVcOPNqkT1Q5ig' # token Bo
 
 
 #### 2. Install Python
-Detailed instructions on how to install Python on Windows: https://py-dev.top/en/installing-python
+Detailed instructions on how to install Python on Windows: https://py-dev.top/installing-python
 
 Go to the settings of the bot itself
 
@@ -68,8 +68,8 @@ Go to the P2PTradeBot folder and click on the start.bat file to start the bot
 System requirements: Windows 10/11, Python 3.x.x
 
 ## Buy P2P Trade Bot OKX
-https://py-dev.top/en/application-software/p2p-trade-bot-okx
+https://py-dev.top/application-software/p2p-trade-bot-okx
 
 ## Contacts
 Telegram: @morgan_sql<br>
-Telegram channel: https://t.me/pydevtop
+
