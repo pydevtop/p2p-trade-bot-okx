@@ -8,7 +8,7 @@
 
  Can pursue a specific seller or only seller merchants, or pursue all sellers, filtering out only by the minimum ad amount
 
-<img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/okx_bot_trade_p2p.jpg" alt="P2P Trade Bot OKX" title="P2P Trade Bot OKX">
+<img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/okx_bot_trade_p2p.png" alt="P2P Trade Bot OKX" title="P2P Trade Bot OKX">
 
 
 Advantages of the P2P Trade Bot in trading on the OKX cryptocurrency exchange:
