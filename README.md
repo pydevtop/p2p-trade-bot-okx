@@ -67,9 +67,21 @@ Go to the P2PTradeBot folder and click on the start.bat file to start the bot
 ### Additional Information
 System requirements: Windows 10/11, Python 3.x.x
 
+
 ## Buy P2P Trade Bot OKX
 https://py-dev.top/application-software/p2p-trade-bot-okx
 
 ## Contacts
 Telegram: @morgan_sql<br>
 
+## License and Usage Notice
+
+This project is licensed under the MIT License.
+
+⚠️ However, unauthorized copying, redistribution, publication, or forking of this repository in a way that falsely attributes authorship or contributor status is strictly prohibited.
+
+The author (PyDev) does not consent to being listed as a contributor in unauthorized forks or copies of this repository.
+
+If you find any unauthorized fork or copy that misuses the author’s name, please report it to GitHub Support.
+
+Author: PyDev
