@@ -47,7 +47,7 @@ P2P Trade Bot Binance  https://github.com/pydevtop/p2p-trade-bot-binance
 Instructions for installing and configuring the P2P Trade Bot OKX
 To manage the OKX P2P bot software, you need to create and connect a telegram bot
 #### 1. Registering a new Telegram bot
-Detailed instructions for registering a new telegram bot: https://py-dev.top/en/registering-telegram-bot
+Detailed instructions for registering a new telegram bot: https://py-dev.top/registering-telegram-bot
 
 The resulting API key for your telegram bot will need to be copied and added to the config.ini configuration file located in the bot folder
 
